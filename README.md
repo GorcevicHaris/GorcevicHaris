@@ -1,5 +1,4 @@
-![Header](https://png.pngtree.com/thumb_back/fw800/background/20231002/pngtree-d-illustration-of-computer-code-on-laptop-screen-empowering-web-development-image_13531202.png)
-
+<img src="https://i.redd.it/gk4cplcv63v61.png" alt="Header" height="auto" width="100%">
 
 
 # 💫 About Me:
