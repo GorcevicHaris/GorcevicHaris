@@ -1,5 +1,3 @@
-<img src="https://i.redd.it/gk4cplcv63v61.png" alt="Header" height="auto" width="100%">
-
 
 # 💫 About Me:
 👋 I'm Haris Gorčević
