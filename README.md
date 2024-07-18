@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ About Me:
 👋 I'm Haris Gorčević
 
 ## 🌐 Socials:
