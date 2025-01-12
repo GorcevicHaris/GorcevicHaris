@@ -1,6 +1,5 @@
 # 🌟 Haris Gorčević 🌟
 
-# About Me ( -_•)▄︻テحكـ━一💥
      
 👋 I'm Haris Gorčević
 
