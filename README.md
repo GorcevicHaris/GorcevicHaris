@@ -1,33 +1,83 @@
-# 🌟 Haris Gorčević 🌟
+<h1 align="center">Hi 👋, I'm Haris Gorčević</h1>
+<h3 align="center">Frontend & Full-Stack Developer | React • Next.js • TypeScript</h3>
 
-     
-👋 I'm Haris Gorčević
+<p align="center">
+Passionate about building modern, scalable and user-friendly web applications.
+Focused on clean code, performance and great UI/UX.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harisgorcevic) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+---
 
+## 🌐 Connect with me
 
-## 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<p align="left">
+<a href="https://instagram.com/harisgorcevic" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/haris-gorcevic" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" />
+</a>
+</p>
 
+---
 
+## 💻 Tech Stack
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GorcevicHaris&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GorcevicHaris&theme=blue-green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GorcevicHaris&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GorcevicHaris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🧠 Backend & Database
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠 Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GorcevicHaris&show_icons=true&theme=blue-green" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GorcevicHaris&theme=blue-green" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorcevicHaris&layout=compact&theme=blue-green" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GorcevicHaris&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📌 About Me
+
+- 🔭 Currently working on **modern React & Next.js applications**
+- 🌱 Learning more about **scalable architecture & TypeScript best practices**
+- ⚡ Passionate about **clean UI, performance and real-time apps**
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Node.js**
+
+---
+
+## 🤝 Let's Build Something Great
+
+If you have an idea, project or collaboration in mind — feel free to reach out 🚀
