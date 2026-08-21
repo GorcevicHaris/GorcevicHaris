@@ -216,5 +216,4 @@ If you have an idea, a project, or a problem that needs solving — I'm one mess
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:8B5CF6,50:6366F1,100:0EA5E9&reversal=true" width="100%" alt="" />
 
 <div align="center">
-<sub>⭐️ Thanks for scrolling all the way down. That's more than most people give a README.</sub>
 </div>
