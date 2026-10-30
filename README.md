@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/GorcevicHaris">
-    <img src="./assets/terminal.svg" width="100%" alt="Terminal window running 'gorcevicharis --profile': an ASCII portrait of Haris breathing a jet of fire while his head slowly nods every 3 seconds, next to his name, role and stack" />
+    <img src="./assets/terminal.svg" width="100%" alt="Terminal window running 'gorcevicharis --profile': an ASCII portrait of Haris forming the Snake, Horse and Tiger hand seals, then breathing a jet of fire, while his head slowly nods every 3 seconds, next to his name, role and stack" />
   </a>
 </div>
 
