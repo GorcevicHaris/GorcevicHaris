@@ -7,13 +7,13 @@
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
 <text x="500.0" y="27" text-anchor="middle" font-size="12.5" fill="#6E7681">haris@gorcevicharis: ~/stats</text>
 <text x="40" y="82" font-size="15"><tspan fill="#3FB950">➜</tspan><tspan fill="#58A6FF">  ~</tspan><tspan fill="#C9D1D9"> gh stats</tspan><tspan fill="#8B949E"> --user GorcevicHaris</tspan></text>
-<text x="40" y="124" font-size="14.5"><tspan fill="#FFA657">Contributions</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">7,357</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
+<text x="40" y="124" font-size="14.5"><tspan fill="#FFA657">Contributions</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">8,860</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="40" y="151" font-size="14.5"><tspan fill="#FFA657">Commits</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">688</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="40" y="178" font-size="14.5"><tspan fill="#FFA657">Pull requests</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">84</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="40" y="205" font-size="14.5"><tspan fill="#FFA657">Followers</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">16</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
 <text x="40" y="232" font-size="14.5"><tspan fill="#FFA657">Public repos</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">28</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
-<text x="40" y="259" font-size="14.5"><tspan fill="#FFA657">Current streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">17 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
-<text x="40" y="286" font-size="14.5"><tspan fill="#FFA657">Longest streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">17 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
+<text x="40" y="259" font-size="14.5"><tspan fill="#FFA657">Current streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">18 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
+<text x="40" y="286" font-size="14.5"><tspan fill="#FFA657">Longest streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">18 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="560" y="124" font-size="14.5" fill="#FFA657">Top languages</text>
 <text x="960" y="124" font-size="12.5" fill="#6E7681" text-anchor="end">public repos, by code size</text>
 <clipPath id="bar"><rect x="560" y="140" width="400" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
@@ -355,7 +355,7 @@
 <rect x="823.5" y="330.0" width="13" height="13" rx="3" fill="#161B22"><title>2026-09-20: 0</title></rect>
 <rect x="823.5" y="346.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-09-21: 68</title></rect>
 <rect x="823.5" y="363.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-09-22: 78</title></rect>
-<rect x="823.5" y="379.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-09-23: 57</title></rect>
+<rect x="823.5" y="379.5" width="13" height="13" rx="3" fill="#C2602A"><title>2026-09-23: 57</title></rect>
 <rect x="823.5" y="396.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-09-24: 142</title></rect>
 <rect x="823.5" y="412.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-09-25: 113</title></rect>
 <rect x="823.5" y="429.0" width="13" height="13" rx="3" fill="#161B22"><title>2026-09-26: 0</title></rect>
@@ -394,12 +394,13 @@
 <rect x="906.0" y="396.0" width="13" height="13" rx="3" fill="#C2602A"><title>2026-10-29: 17</title></rect>
 <rect x="906.0" y="412.5" width="13" height="13" rx="3" fill="#C2602A"><title>2026-10-30: 4</title></rect>
 <rect x="906.0" y="429.0" width="13" height="13" rx="3" fill="#C2602A"><title>2026-10-31: 17</title></rect>
-<rect x="922.5" y="330.0" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-01: 6</title></rect>
-<rect x="922.5" y="346.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-02: 956</title></rect>
-<rect x="922.5" y="363.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-03: 115</title></rect>
-<rect x="922.5" y="379.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-04: 95</title></rect>
-<rect x="922.5" y="396.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-05: 79</title></rect>
-<text x="64.5" y="463.5" font-size="12.5" fill="#8B949E">7,357 contributions in the last year · updated 05 Nov 2026</text>
+<rect x="922.5" y="330.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-01: 121</title></rect>
+<rect x="922.5" y="346.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-02: 1565</title></rect>
+<rect x="922.5" y="363.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-03: 344</title></rect>
+<rect x="922.5" y="379.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-04: 357</title></rect>
+<rect x="922.5" y="396.0" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-05: 340</title></rect>
+<rect x="922.5" y="412.5" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-06: 27</title></rect>
+<text x="64.5" y="463.5" font-size="12.5" fill="#8B949E">8,860 contributions in the last year · updated 06 Nov 2026</text>
 <text x="779.0" y="463.5" font-size="12.5" fill="#8B949E">less</text>
 <rect x="815.0" y="452.5" width="13" height="13" rx="3" fill="#161B22"/>
 <rect x="831.5" y="452.5" width="13" height="13" rx="3" fill="#3D2316"/>
