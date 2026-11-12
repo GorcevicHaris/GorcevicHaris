@@ -7,29 +7,29 @@
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
 <text x="500.0" y="27" text-anchor="middle" font-size="12.5" fill="#6E7681">haris@gorcevicharis: ~/stats</text>
 <text x="40" y="82" font-size="15"><tspan fill="#3FB950">➜</tspan><tspan fill="#58A6FF">  ~</tspan><tspan fill="#C9D1D9"> gh stats</tspan><tspan fill="#8B949E"> --user GorcevicHaris</tspan></text>
-<text x="40" y="124" font-size="14.5"><tspan fill="#FFA657">Contributions</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">9,030</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
-<text x="40" y="151" font-size="14.5"><tspan fill="#FFA657">Commits</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">719</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
-<text x="40" y="178" font-size="14.5"><tspan fill="#FFA657">Pull requests</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">101</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
+<text x="40" y="124" font-size="14.5"><tspan fill="#FFA657">Contributions</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">9,053</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
+<text x="40" y="151" font-size="14.5"><tspan fill="#FFA657">Commits</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">43</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
+<text x="40" y="178" font-size="14.5"><tspan fill="#FFA657">Pull requests</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">0</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="40" y="205" font-size="14.5"><tspan fill="#FFA657">Followers</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">16</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
-<text x="40" y="232" font-size="14.5"><tspan fill="#FFA657">Public repos</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">29</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
-<text x="40" y="259" font-size="14.5"><tspan fill="#FFA657">Current streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">3 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
+<text x="40" y="232" font-size="14.5"><tspan fill="#FFA657">Public repos</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">27</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
+<text x="40" y="259" font-size="14.5"><tspan fill="#FFA657">Current streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">4 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5"></tspan></text>
 <text x="40" y="286" font-size="14.5"><tspan fill="#FFA657">Longest streak</tspan><tspan x="196" fill="#F0F6FC" font-weight="700">19 days</tspan><tspan x="300" fill="#6E7681" font-size="12.5">last 12 months</tspan></text>
 <text x="560" y="124" font-size="14.5" fill="#FFA657">Top languages</text>
 <text x="960" y="124" font-size="12.5" fill="#6E7681" text-anchor="end">public repos, by code size</text>
 <clipPath id="bar"><rect x="560" y="140" width="400" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
-<rect x="560.0" y="140" width="329.9" height="10" fill="#3178c6"/>
-<rect x="889.4" y="140" width="31.1" height="10" fill="#f1e05a"/>
-<rect x="919.9" y="140" width="17.2" height="10" fill="#ff5a03"/>
-<rect x="936.6" y="140" width="7.6" height="10" fill="#336790"/>
-<rect x="943.7" y="140" width="6.7" height="10" fill="#663399"/>
-<rect x="949.9" y="140" width="3.6" height="10" fill="#7355dd"/>
-<rect x="953.0" y="140" width="8.0" height="10" fill="#30363D"/></g>
-<circle cx="565" cy="175.5" r="5" fill="#3178c6"/><text x="578" y="180" font-size="14"><tspan fill="#C9D1D9">TypeScript</tspan><tspan x="750" text-anchor="end" fill="#8B949E">82.3%</tspan></text>
-<circle cx="775" cy="175.5" r="5" fill="#f1e05a"/><text x="788" y="180" font-size="14"><tspan fill="#C9D1D9">JavaScript</tspan><tspan x="960" text-anchor="end" fill="#8B949E">7.6%</tspan></text>
-<circle cx="565" cy="202.5" r="5" fill="#ff5a03"/><text x="578" y="207" font-size="14"><tspan fill="#C9D1D9">Astro</tspan><tspan x="750" text-anchor="end" fill="#8B949E">4.2%</tspan></text>
-<circle cx="775" cy="202.5" r="5" fill="#336790"/><text x="788" y="207" font-size="14"><tspan fill="#C9D1D9">PLpgSQL</tspan><tspan x="960" text-anchor="end" fill="#8B949E">1.8%</tspan></text>
-<circle cx="565" cy="229.5" r="5" fill="#663399"/><text x="578" y="234" font-size="14"><tspan fill="#C9D1D9">CSS</tspan><tspan x="750" text-anchor="end" fill="#8B949E">1.6%</tspan></text>
-<circle cx="775" cy="229.5" r="5" fill="#7355dd"/><text x="788" y="234" font-size="14"><tspan fill="#C9D1D9">C#</tspan><tspan x="960" text-anchor="end" fill="#8B949E">0.8%</tspan></text>
+<rect x="560.0" y="140" width="233.3" height="10" fill="#f1e05a"/>
+<rect x="792.8" y="140" width="41.5" height="10" fill="#3178c6"/>
+<rect x="833.8" y="140" width="37.2" height="10" fill="#663399"/>
+<rect x="870.5" y="140" width="27.8" height="10" fill="#7355dd"/>
+<rect x="897.9" y="140" width="26.4" height="10" fill="#555555"/>
+<rect x="923.8" y="140" width="14.1" height="10" fill="#e34c26"/>
+<rect x="937.4" y="140" width="23.6" height="10" fill="#30363D"/></g>
+<circle cx="565" cy="175.5" r="5" fill="#f1e05a"/><text x="578" y="180" font-size="14"><tspan fill="#C9D1D9">JavaScript</tspan><tspan x="750" text-anchor="end" fill="#8B949E">58.2%</tspan></text>
+<circle cx="775" cy="175.5" r="5" fill="#3178c6"/><text x="788" y="180" font-size="14"><tspan fill="#C9D1D9">TypeScript</tspan><tspan x="960" text-anchor="end" fill="#8B949E">10.3%</tspan></text>
+<circle cx="565" cy="202.5" r="5" fill="#663399"/><text x="578" y="207" font-size="14"><tspan fill="#C9D1D9">CSS</tspan><tspan x="750" text-anchor="end" fill="#8B949E">9.2%</tspan></text>
+<circle cx="775" cy="202.5" r="5" fill="#7355dd"/><text x="788" y="207" font-size="14"><tspan fill="#C9D1D9">C#</tspan><tspan x="960" text-anchor="end" fill="#8B949E">6.8%</tspan></text>
+<circle cx="565" cy="229.5" r="5" fill="#555555"/><text x="578" y="234" font-size="14"><tspan fill="#C9D1D9">C</tspan><tspan x="750" text-anchor="end" fill="#8B949E">6.5%</tspan></text>
+<circle cx="775" cy="229.5" r="5" fill="#e34c26"/><text x="788" y="234" font-size="14"><tspan fill="#C9D1D9">HTML</tspan><tspan x="960" text-anchor="end" fill="#8B949E">3.4%</tspan></text>
 <rect x="64.5" y="330.0" width="13" height="13" rx="3" fill="#161B22"><title>2025-11-09: 0</title></rect>
 <rect x="64.5" y="346.5" width="13" height="13" rx="3" fill="#161B22"><title>2025-11-10: 0</title></rect>
 <rect x="64.5" y="363.0" width="13" height="13" rx="3" fill="#161B22"><title>2025-11-11: 0</title></rect>
@@ -395,10 +395,11 @@
 <rect x="906.0" y="412.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-06: 74</title></rect>
 <rect x="906.0" y="429.0" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-07: 4</title></rect>
 <rect x="922.5" y="330.0" width="13" height="13" rx="3" fill="#161B22"><title>2026-11-08: 0</title></rect>
-<rect x="922.5" y="346.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-09: 83</title></rect>
+<rect x="922.5" y="346.5" width="13" height="13" rx="3" fill="#FFA657"><title>2026-11-09: 85</title></rect>
 <rect x="922.5" y="363.0" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-10: 7</title></rect>
-<rect x="922.5" y="379.5" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-11: 12</title></rect>
-<text x="64.5" y="463.5" font-size="12.5" fill="#8B949E">9,030 contributions in the last year · updated 11 Nov 2026</text>
+<rect x="922.5" y="379.5" width="13" height="13" rx="3" fill="#C2602A"><title>2026-11-11: 30</title></rect>
+<rect x="922.5" y="396.0" width="13" height="13" rx="3" fill="#7A3E1D"><title>2026-11-12: 3</title></rect>
+<text x="64.5" y="463.5" font-size="12.5" fill="#8B949E">9,053 contributions in the last year · updated 12 Nov 2026</text>
 <text x="779.0" y="463.5" font-size="12.5" fill="#8B949E">less</text>
 <rect x="815.0" y="452.5" width="13" height="13" rx="3" fill="#161B22"/>
 <rect x="831.5" y="452.5" width="13" height="13" rx="3" fill="#3D2316"/>
